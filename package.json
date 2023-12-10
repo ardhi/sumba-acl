@@ -1,0 +1,34 @@
+{
+  "name": "sumba-perm",
+  "version": "0.0.1",
+  "description": "Sumba's PERM Metamodel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/sumba-perm.git"
+  },
+  "keywords": [
+    "sumba-perm",
+    "bajo",
+    "framework",
+    "perm",
+    "sumba",
+    "casbin",
+    "rbac",
+    "abac",
+    "role"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/sumba-perm/issues"
+  },
+  "homepage": "https://github.com/ardhi/sumba-perm#readme",
+  "dependencies": {
+    "casbin": "^5.28.0"
+  }
+}
